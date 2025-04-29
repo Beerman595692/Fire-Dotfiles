@@ -1,0 +1,12 @@
+{
+  "layer": "bottom",
+  "position": "top",
+  "height": 24,
+  "spacing": 5,
+  "modules-left": ["hyprland/mode"],
+  "modules-center": ["hyprland/workspaces"],
+  "modules-right": ["cpu","memory","pulseaudio","clock"],
+	"clock":{
+		"format":" {:%H:%M  %d/%m/%y}"
+	}
+}

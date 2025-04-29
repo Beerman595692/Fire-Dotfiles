@@ -1,1 +1,19 @@
-../../dotfiles/waybar/.config/waybar/style.css
+@define-color background rgba(50,0,0,0.8);
+@define-color highlight rgba(201,65,2,0.5);
+@define-color label rgba(132,58,0,0.7);
+@define-color border-color rgba(180,0,0,0);
+@define-color text #ffffff;
+
+#waybar { 
+  background-color: transparent; 
+  color: #ffffff;
+
+}
+
+label, button {
+	background-color: @background;
+	border-color: red;
+	border-radius: 5px;
+	border-style: solid;
+	padding: 2px;
+}
