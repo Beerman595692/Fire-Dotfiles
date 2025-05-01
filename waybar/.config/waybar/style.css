@@ -10,10 +10,16 @@
 
 }
 
+button {
+	border-radius: 50%;
+}	
+
 label, button {
 	background-color: @background;
 	border-color: red;
-	border-radius: 5px;
 	border-style: solid;
+}
+
+label {
 	padding: 2px;
 }
