@@ -9,5 +9,5 @@ alias mkcd='_mkcd(){ mkdir "$1"; cd "$1";}; _mkcd'
 
 clear
 #kitten icat --place 40x75@0x0  --scale-up ~/.config/kitty/infernape.gif 
-neofetch --kitty-icat ~/.config/kitty/infernape.gif 
+fastfetch --kitty-icat ~/.config/kitty/infernape.gif 
 #fortune | cowsay -f dragon
