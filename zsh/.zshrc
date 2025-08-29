@@ -6,6 +6,8 @@ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
 eval "$(oh-my-posh init zsh --config ~/lambdageneration.omp.json)"
 alias mkcd='_mkcd(){ mkdir "$1"; cd "$1";}; _mkcd'
+export EDITOR=nvim
+export VISUAL=nvim
 
 clear
 #kitten icat --place 40x75@0x0  --scale-up ~/.config/kitty/infernape.gif 

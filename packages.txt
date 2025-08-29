@@ -1,0 +1,12 @@
+hyprland
+hypridle
+hyprlock
+hyprpaper
+ffmpegthumbnailer
+ranger
+waybar
+zsh
+rofi
+neovim
+kitty
+python-pillow
