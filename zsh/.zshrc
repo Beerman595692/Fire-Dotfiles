@@ -11,5 +11,5 @@ export VISUAL=nvim
 
 clear
 #kitten icat --place 40x75@0x0  --scale-up ~/.config/kitty/infernape.gif 
-fastfetch --kitty-icat ~/.config/kitty/infernape.gif 
+fastfetch --kitty-icat ~/.config/kitty/infernape.gif --color-keys \#fb7e14 --color-title \#fb7e14 
 #fortune | cowsay -f dragon

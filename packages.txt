@@ -2,11 +2,17 @@ hyprland
 hypridle
 hyprlock
 hyprpaper
+hyprshot
 ffmpegthumbnailer
+openscad
+pygmentize
 ranger
 waybar
 zsh
 rofi
 neovim
 kitty
+fastfetch
+python3
 python-pillow
+
