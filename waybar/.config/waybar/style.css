@@ -3,11 +3,11 @@
 @define-color highlight rgba(255,72,7,0.8);
 @define-color label rgba(132,58,0,0.7);
 @define-color border-color rgba(180,0,0,0);
-@define-color text #ffffff;
+@define-color text #ebdbb2;
 
 #waybar { 
   background-color: @background; 
-  color: #ffffff;
+  color: @text;
 	padding: 100px;
 
 }
@@ -34,11 +34,12 @@
 }
 
 label{
+	font-size:1.5em;
 	background-color: @button_background;
 	border-color: red;
 	border-style: solid;
 	border-radius: 2px;
-	padding: 1px;
+	padding: 3px;
 }
 
 

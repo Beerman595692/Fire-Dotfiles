@@ -11,5 +11,8 @@ export VISUAL=nvim
 
 clear
 #kitten icat --place 40x75@0x0  --scale-up ~/.config/kitty/infernape.gif 
-fastfetch --kitty-icat ~/.config/kitty/infernape.gif --color-keys \#fb7e14 --color-title \#fb7e14 
+fastfetch --kitty-icat ~/.config/kitty/infernape.gif --color-keys \#fe8019 --color-title \#fe8019 
 #fortune | cowsay -f dragon
+
+# Created by `pipx` on 2025-09-02 17:06:41
+export PATH="$PATH:/home/beerman595692/.local/bin"

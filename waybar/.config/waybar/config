@@ -27,7 +27,7 @@
     "format-plugged": "BAT0: {capacity}% (plugged)",
   },
   "clock": {
-    "format": " {:%H:%M %d/%m/%Y}",
+    "format": "  {:%H:%M %d/%m/%Y}",
     "tooltip-format": "<tt><small>{calendar}</small></tt>",
     "calendar": {
       "format": {
@@ -37,7 +37,7 @@
     }
   },
   "pulseaudio": {
-    "format": "{icon} {volume}%",
+    "format": "{icon}  {volume}%",
     "format-icons": {
       "default": ["\uf026", "\uf027", "\uf028"]
     },
