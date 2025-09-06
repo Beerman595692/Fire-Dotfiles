@@ -9,6 +9,9 @@ alias mkcd='_mkcd(){ mkdir "$1"; cd "$1";}; _mkcd'
 export EDITOR=nvim
 export VISUAL=nvim
 
+#aliases
+alias freecad='flatpak run org.freecad.FreeCAD'
+
 clear
 #kitten icat --place 40x75@0x0  --scale-up ~/.config/kitty/infernape.gif 
 fastfetch --kitty-icat ~/.config/kitty/infernape.gif --color-keys \#fe8019 --color-title \#fe8019 
